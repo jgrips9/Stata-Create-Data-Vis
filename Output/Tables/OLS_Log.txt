@@ -1,0 +1,10 @@
+\newcommand{\mpgcoefa}{$-49.51$}
+\newcommand{\weightcoefa}{$1.75$}
+\newcommand{\mpgpvaluea}{$0.57$}
+\newcommand{\weightpvaluea}{$0.01$}
+\newcommand{\obsa}{$74$}
+\newcommand{\mpgcoefb}{$-0.169$}
+\newcommand{\weightcoefb}{$-0.004$}
+\newcommand{\mpgpvalueb}{$0.067$}
+\newcommand{\weightpvalueb}{$0.000$}
+\newcommand{\obsb}{$74$}

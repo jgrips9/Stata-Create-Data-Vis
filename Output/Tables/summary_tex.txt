@@ -1,0 +1,13 @@
+\newcommand{\start}{$0.00$}
+\newcommand{\pricemean}{$6165.26$}
+\newcommand{\pricemin}{$3291.00$}
+\newcommand{\pricemax}{$15906.00$}
+\newcommand{\foreignmean}{$0.30$}
+\newcommand{\foreignmin}{$0.00$}
+\newcommand{\foreignmax}{$1.00$}
+\newcommand{\weightmean}{$3019.46$}
+\newcommand{\weightmin}{$1760.00$}
+\newcommand{\weightmax}{$4840.00$}
+\newcommand{\mpgmean}{$21.30$}
+\newcommand{\mpgmin}{$12.00$}
+\newcommand{\mpgmax}{$41.00$}
